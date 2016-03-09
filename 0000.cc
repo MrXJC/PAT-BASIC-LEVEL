@@ -8,6 +8,5 @@ int main()
 #else
     freopen("input.txt", "r", stdin);
 #endif
-
 return 0;
 }
